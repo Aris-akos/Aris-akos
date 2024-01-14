@@ -4,7 +4,7 @@ R is a programming language for statistical computing and graphics. Created by s
 
 ## History
 
-The language was inspired by the S programming language, with most S programs able to run unaltered in R[5]. The language was also inspired by Scheme's lexical scoping, allowing for local variables.
+The language was inspired by the S programming language, with most S programs able to run unaltered in R. The language was also inspired by Scheme's lexical scoping, allowing for local variables.
 
 ## Programming
 
